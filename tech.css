@@ -1,0 +1,25 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   body{
+    background-color: hsl(0,0%,100);
+    padding: 20px;
+    margin: 0 5px;
+    border: 5px ridge;
+    max-width: 1150px;
+    text-align: left;
+    font-size: 14px;
+   }
+ 
+  .First-Section {
+    color: green;
+  }
+  .Second-Section {
+    color: #FF0000;
+  }
+  .Third-Section {
+    color: rgba(0,0,255,0.9);
+  }
+  h3 {
+    text-decoration: underline;
+  }
